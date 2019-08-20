@@ -1,7 +1,11 @@
 # Minhas Configurações para usar ReactJs
 
-1 - Use o VsCode <br>
-2 - Instale os plugins = ['Prettier - Code formatter
-', 'EsLint', 'EditorConfig'] <br>
+<ul>
+<ol>Use o VsCode</ol>
+<ol>Instale os plugins = ['Prettier - Code formatter
+', 'EsLint', 'EditorConfig']</ol>
+</ul>
 
-Veja os arquivos editados neste repositorio.
+#Acesse o Git e insira os comandos
+
+#Veja os arquivos editados neste repositorio.
